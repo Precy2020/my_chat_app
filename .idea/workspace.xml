@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e26e446-4549-420a-93db-f871ccc221dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/data/models/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/data/models/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/data/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/data/repository/ChatRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/data/repository/MessageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/data/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/dtos/request/ChatRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/dtos/request/RegisterUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/dtos/response/ChatResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/dtos/response/RegisterUserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/exceptions/AlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/exceptions/LamourChatApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/services/ChatServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/services/ChatServicesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/services/MessageServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/services/UserServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/services/UserServicesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/precious/utils/Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/precious/data/repository/UserRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/precious/services/UserServicesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="2e26e446-4549-420a-93db-f871ccc221dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +32,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698355484719</updated>
-      <workItem from="1698355485993" duration="2000000" />
+      <workItem from="1698355485993" duration="2478000" />
     </task>
     <servers />
   </component>
