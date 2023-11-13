@@ -32,12 +32,7 @@ public class UserServicesImpl implements  UserServices{
 
     @Override
     public void createChatFor(ChatRequest createChatRequest) {
-//        Chat chat = new Chat();
-//        chat.setChatName(createChatRequest.getFirstUser() + " "
-//                + createChatRequest.getSecondUser());
-//        chat.getUsers().addAll(List
-//                .of(findByEmail(createChatRequest.getFirstUser()), findByEmail(createChatRequest.getSecondUser())));
-//        chatServices.createChat(createChatRequest);
+
     }
 
     @Override
